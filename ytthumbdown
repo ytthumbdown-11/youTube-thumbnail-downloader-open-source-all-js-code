@@ -1,0 +1,6 @@
+youtube-thumbnail-downloader/
+│
+├── index.html       # Main HTML file
+├── style.css        # Tool styling
+├── script.js        # Tool JavaScript (without bookmarklet code)
+├── README.md        # Project description and instructions
